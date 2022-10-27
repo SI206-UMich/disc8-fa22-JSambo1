@@ -17,7 +17,7 @@ def getLink(soup):
 # founded and organize the same into key-value pairs.
 def getAdmissionsInfo2019(soup):
     tag = soup.find(title = "College/school founding")
-    
+    #Im not gonana lie I literally have no clue how to do this.
     pass
 
 
